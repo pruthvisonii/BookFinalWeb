@@ -1,1 +1,1 @@
-# BookShopAsp-master
+This is a book management web application created by Pruthvi Soni (Student ID: A00262875) as the final project for a Web Development course. The application is designed to help users manage their book collection with ease.
